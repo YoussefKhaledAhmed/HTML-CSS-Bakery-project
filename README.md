@@ -1,2 +1,2 @@
-# HTML-CSS-Bakery-project
-using HTML and CSS to make bakery project
+# Project requirments:
+Making the home page of this [URL](https://www.engage.veented.com/bakery/)
